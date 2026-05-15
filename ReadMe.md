@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Nehant  <br>CS Student • AI & Cybersecurity Enthusiast   <br><br>Building intelligent systems using machine learning, deep learning, and real-world data.<br><br>🧭 About Me  <br>🧠 I design AI systems for NLP, automation and also develop web apps <br>🌍 Building AI-powered applications with LLMs, RAG pipelines, and multi-agent architectures <br> 💻 Learning and building full stack applications using the MERN stack<br>🔬 Interested in scalable AI, system design, and security  <br>🌱 Currently learning and exploring new technologies  <br><br>
+Hi 👋, I'm Nehant  <br>CS Student • MERN Stack developer & AI Enthusiast   <br><br>Building intelligent systems using machine learning, deep learning, and real-world data.<br><br>🧭 About Me  <br>🧠 I design AI systems for NLP, automation and also develop web apps <br>🌍 Building AI-powered applications with LLMs, RAG pipelines, and multi-agent architectures <br> 💻 Learning and building full stack applications using the MERN stack<br>🔬 Interested in scalable AI, system design, and security  <br>🌱 Currently learning and exploring new technologies  <br><br>
 
 
 # 💻 Tech Stack:
