@@ -1,6 +1,6 @@
 ## ⚡ About Me
 
-I’m a **MERN Stack + Python Backend Developer** and **NLP Enthusiast** 
+I’m a **MERN Stack, Python Backend Developer** and **NLP Enthusiast** 
 I build scalable full-stack applications and intelligent backend systems with a focus on clean architecture, performance, and real-world impact 🚀⚙️  
 
 <br>
